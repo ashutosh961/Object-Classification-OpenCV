@@ -1,0 +1,11 @@
+{"":[{"group_id":"0","datatype":"int"},{"datatype":"int","object_id":"0"},{"datatype":"int","frame_id":"41"},{"datatype":"vector","boundbox":"[142,2,60,65]"},{"datatype":"String","similarity metric":"Sift_match"},{"datatype":"float","similarity_threshold":"0.65"},{"datatype":"String","signature_method":"Sift_Features"},
+{"datatype":"vector","feature
+
+feature vaector -
+
+Value
+type
+SM
+Size - 
+
+_vector":"[]"}]}

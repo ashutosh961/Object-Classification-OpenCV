@@ -1,0 +1,15 @@
+1)Follow OpenCV setup and try importing Opencv 2.4.9.jar,Guava-r07-jar.zip and json_simpe_1.1.jar in the OpenCV2-Test folder in your eclipse project.
+
+
+2)Search for class file read_gray.java.Run read_gray java only for the project to work.
+
+3)The input folder has a config file for changing video files and other parameters.
+
+4)The output folder contains all the output files.
+
+5)Tuple ascii.txt and Tuple object.bin contain specific ascii and object format of tuples
+
+6)Seed ascii.txt and seed object.bin contain specific ascii and object format of seeds
+
+7)Include ffopencv.c and ffmpeg_version.cmake,opencv_ffmpeg249.dll,ffmpeg249_64.dll in the opencv2-test folder.
+

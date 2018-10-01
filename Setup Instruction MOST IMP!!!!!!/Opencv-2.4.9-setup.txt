@@ -1,0 +1,10 @@
+In Eclipse IDE:
+1.Please add ...\OpenCV-2.4.9\opencv\build\java to Windows Environmental variables.
+2.Please add ...\OpenCV-2.4.9\opencv\build\x64 to Windows Environmental variables.
+3.Please add ...\OpenCV-2.4.9\opencv\sources\3rdparty\ffmpeg all files to your current project directory only.
+4.Configure build path in your eclipse project from window->preferences and select opencv-249.jar in your ...\OpenCV-2.4.9\opencv\build\java folder.
+5.Select the native path of your now added opencv jar as C:\OpenCV-2.4.9\opencv\build\x64\vc12.
+
+
+
+This issue specifically corresponds to Opencv 2X versions.
