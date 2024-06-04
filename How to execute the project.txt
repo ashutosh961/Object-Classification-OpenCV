@@ -7,6 +7,8 @@
 
 4)The output folder contains all the output files.
 
+*) Please create frame_storage_directory file in your output file
+
 5)Tuple ascii.txt and Tuple object.bin contain specific ascii and object format of tuples
 
 6)Seed ascii.txt and seed object.bin contain specific ascii and object format of seeds
